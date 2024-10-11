@@ -1,5 +1,5 @@
 # password-generator
-A simple customizable password generator.
+A simple customizable password generator and wordlist creator.
 ![passwordgenerator](https://github.com/user-attachments/assets/f9bfdac0-50bc-4e5a-bd27-eb548df46fef)
 
 
