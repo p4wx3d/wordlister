@@ -2,10 +2,10 @@
 A simple customizable password generator.
 
 **Features**
-
+	
 	- Customizable base words.
 	- Flexible length options
-	- Symbol integration
+ 	- Symbol integration
  	- Dynamic formatting > All lowercase, all uppercase, Capitalize first letter
 	- Output to generated_wordlist.txt
  
