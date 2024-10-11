@@ -1,5 +1,7 @@
 # password-generator
 A simple customizable password generator.
+![passwordgenerator](https://github.com/user-attachments/assets/f9bfdac0-50bc-4e5a-bd27-eb548df46fef)
+
 
 **Features**
 	
