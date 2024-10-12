@@ -12,8 +12,8 @@ A simple customizable password generator and wordlist creator.
  
 **Usage**
 
-	 chmod +x Password_Generator
-	 ./Pasword_Generator
+	 chmod +x wordlister
+	 ./wordlister
 
 # **Disclaimer**
 
