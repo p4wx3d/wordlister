@@ -1,4 +1,4 @@
-# password-generator
+# wordlister
 A simple customizable password generator and wordlist creator.
 
 ![wordlister](https://github.com/user-attachments/assets/0beda985-1998-45f6-8dc6-ecfddf1825f0)
